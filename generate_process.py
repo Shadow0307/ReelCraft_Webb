@@ -22,7 +22,8 @@ def create_reel(folder):
     subprocess.run(command, shell=True, check=True)
 
     print("CR - ", folder)
-
+    
+# Start initilizing the process
 if __name__=="__main__":
     while True:
         print("Processing queue....")
