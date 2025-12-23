@@ -1,0 +1,30 @@
+file 'chaya.png'
+duration 1
+file 'drk.png'
+duration 1
+file 'rvng.png'
+duration 1
+file '3.png'
+duration 1
+file '1.png'
+duration 1
+file '2.jpeg'
+duration 1
+file 'dsgn.jpg'
+duration 1
+file 'nkdsh.jpg'
+duration 1
+file 'enlght.png'
+duration 1
+file '1.png'
+duration 1
+file '3.png'
+duration 1
+file 'dgnon.png'
+duration 1
+file 'WhatsApp Image 2025-04-14 at 10.07.22 PM.jpeg'
+duration 1
+file 'WhatsApp Image 2025-04-14 at 10.07.22 PM.jpeg'
+duration 1
+file '1.png'
+duration 1

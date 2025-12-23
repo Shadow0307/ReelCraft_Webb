@@ -1,0 +1,10 @@
+file '1.png'
+duration 1
+file '2.jpeg'
+duration 1
+file 'drk.png'
+duration 1
+file 'drgon.png'
+duration 1
+file 'chaya.png'
+duration 1
